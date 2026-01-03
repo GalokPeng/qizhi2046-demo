@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  ai-community-api:
+    build: .
+    container_name: ai-community-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./community.db:/app/community.db
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: uvicorn main:app --host 0.0.0.0 --port 8000
