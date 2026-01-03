@@ -45,15 +45,16 @@ SQLite方便demo演示
 最关键的就是文章id、评论id、评论父级id
 
 ## 接口测试
-##### 删除评论
+### 删除评论
 ![](https://github.com/GalokPeng/qizhi2046-demo/blob/5fa419f6333ae1cccde3eb835f18a56636ef2fec/del_comment.png)
-##### 删除文章
+### 删除文章
 ![](https://github.com/GalokPeng/qizhi2046-demo/blob/5fa419f6333ae1cccde3eb835f18a56636ef2fec/del_posts.png)
-##### 查询评论
+### 查询评论
 ![](https://github.com/GalokPeng/qizhi2046-demo/blob/5fa419f6333ae1cccde3eb835f18a56636ef2fec/select_comments.png)
-##### 查询文章
+### 查询文章
 ![](https://github.com/GalokPeng/qizhi2046-demo/blob/5fa419f6333ae1cccde3eb835f18a56636ef2fec/select_posts.png)
-##### 添加品论
+### 添加品论
 ![](https://github.com/GalokPeng/qizhi2046-demo/blob/5fa419f6333ae1cccde3eb835f18a56636ef2fec/add_comment.png)
-##### 添加文章
+### 添加文章
 ![](https://github.com/GalokPeng/qizhi2046-demo/blob/5fa419f6333ae1cccde3eb835f18a56636ef2fec/add_posts.png)
+
